@@ -74,6 +74,6 @@
   },
   "dependencies": {
     "url-parse": "^1.4.3",
-    "weex-bindingx": "0.0.17"
+    "weex-bindingx": "0.0.49"
   }
 }
